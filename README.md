@@ -16,9 +16,7 @@ ytd-miniplayer[animate-miniplayer]:not([expanded]) {
     height: 0!important;
 }
 .ytd-miniplayer .ytp-tooltip.ytp-bottom.ytp-preview,
-.ytd-miniplayer .ytp-preview:not(.ytp-text-detail) .ytp-tooltip-text,
-.ytd-miniplayer .ytp-preview:not(.ytp-text-detail) .ytp-tooltip-title,
-.ytd-miniplayer .ytp-preview:not(.ytp-text-detail) .ytp-tooltip-text-no-title {
+.ytd-miniplayer .ytp-preview:not(.ytp-text-detail) * {
     top: unset!important;
 }
 .ytp-miniplayer-expand-watch-page-button,

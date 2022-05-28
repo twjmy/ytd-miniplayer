@@ -10,10 +10,7 @@ ytd-miniplayer {
 ytd-miniplayer[animate-miniplayer]:not([expanded]) {
     height: 450px;
 }
-.ytd-miniplayer video.video-stream.html5-main-video {
-    display: none;
-    height: 0!important;
-}
+.ytd-miniplayer video.video-stream.html5-main-video,
 .ytd-miniplayer .ytp-tooltip.ytp-bottom.ytp-preview,
 .ytd-miniplayer .ytp-preview:not(.ytp-text-detail) * {
     top: unset!important;
@@ -27,7 +24,8 @@ ytd-miniplayer[animate-miniplayer]:not([expanded]) {
 ## Screenshort
 ### Collapse
 
-![image](https://user-images.githubusercontent.com/32490451/170841912-4b92e81e-0b78-4c84-a613-0b4803d9dc2c.png)
++ CC  
+![image](https://user-images.githubusercontent.com/32490451/170843307-cb9945a5-ec23-497c-a25f-7592648f6db7.png)
 
 ### Expand
 

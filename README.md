@@ -22,11 +22,10 @@ ytd-miniplayer[animate-miniplayer]:not([expanded]) {
 ```
 
 ## Screenshort
-### Collapse
 
-+ CC  
++ Pause  
+![image](https://user-images.githubusercontent.com/32490451/170844182-8f4c4933-6f73-4dcc-87aa-e9a677bf33be.png)
++ Tooltip/CC  
 ![image](https://user-images.githubusercontent.com/32490451/170843307-cb9945a5-ec23-497c-a25f-7592648f6db7.png)
-
-### Expand
-
++ Expand  
 ![image](https://user-images.githubusercontent.com/32490451/170841973-db4e2070-8306-4a68-a427-c12c1fe75480.png)

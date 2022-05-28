@@ -9,9 +9,6 @@ ytd-miniplayer[animate-miniplayer]:not([expanded]) {
 .ytd-miniplayer .ytp-preview:not(.ytp-text-detail) * {
     top: unset!important;
 }
-.ytp-miniplayer-ui {
-    z-index: 68;
-}
 .ytp-miniplayer-expand-watch-page-button,
 #info-bar.ytd-miniplayer .expander.ytd-miniplayer,
 .ytd-miniplayer video.video-stream.html5-main-video {

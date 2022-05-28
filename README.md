@@ -8,8 +8,7 @@ ytd-miniplayer {
     --ytd-miniplayer-card-height: 65px;
 }
 ytd-miniplayer[animate-miniplayer]:not([expanded]) {
-    --ytd-miniplayer-fade-down-endpoint: 450px;
-    height: var(--ytd-miniplayer-fade-down-endpoint);
+    height: 450px;
 }
 .ytd-miniplayer video.video-stream.html5-main-video {
     display: none;

@@ -1,5 +1,10 @@
 # YouTube Mini player video hide stylesheet
 
+[![badge-cc-by-nc-sa][badge-cc-by-nc-sa]][url-cc-by-nc-sa]
+
+[badge-cc-by-nc-sa]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[url-cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0
+
 Self CSS practise
 
 ```css

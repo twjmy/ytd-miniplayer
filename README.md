@@ -5,10 +5,9 @@ Self CSS practise
 ```css
 ytd-miniplayer {
     --ytd-miniplayer-height: 2px;
-    --ytd-miniplayer-card-height: 65px;
 }
 ytd-miniplayer[animate-miniplayer]:not([expanded]) {
-    height: 450px;
+    height: 453px;
 }
 .ytd-miniplayer .ytp-tooltip.ytp-bottom.ytp-preview,
 .ytd-miniplayer .ytp-preview:not(.ytp-text-detail) * {
